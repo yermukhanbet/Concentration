@@ -1,5 +1,6 @@
 # Concentration
-Concentration IOS app.\n
+Concentration IOS app.
+
 Famous card marching game, with intention to improve your memory skills.
 
 
